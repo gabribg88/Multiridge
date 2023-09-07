@@ -1,0 +1,19 @@
+##### Core scientific packages
+jupyter
+jupyterlab
+jupyterlab_nvdashboard
+matplotlib
+numpy
+pandas
+scipy
+
+##### Machine Learning packages
+scikit-learn
+imbalanced-learn
+statsmodels
+torch
+
+##### Others
+openpyxl
+seaborn
+tqdm
