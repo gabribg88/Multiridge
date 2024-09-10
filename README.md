@@ -2,7 +2,7 @@
 
 This github repository contains the Python code to reproduce the results of the paper Gradient-based bilevel optimization for multi-penalty ridge regression through matrix differential calculus by Gabriele Maroni, Loris Cannelli and Dario Piga.
 
-This paper has been submitted for publication in *Automatica Journal*.
+This paper has been submitted for publication in *European Journal of Control*.
 
 <img src="figures/png/massive_experiment.png" width="500">
 
